@@ -20,17 +20,4 @@ GnuTheme will default to installing in `$HOME/GnuTheme`, so make sure you plan a
     $ make
     $ make install
 
-If you're still lost, read [INSTALL](INSTALL) or [GIT-Access](GIT-Access) for hints. 
 
-## SWI (services web interface) Web Panel for GnuTheme
-
-If you are interested in having a Services Web Interface (or Services Web Panel), SWI
-*IS* compatible with GnuTheme and other Atheme forks, and is available at:
-http://www.GnuTheme.org/SWI/ or http://github.com/GnuThemeOrg/SWI/
-
-## links / contact
-
- * [GitHub](http://www.github.com/GnuThemeOrg/GnuTheme)
- * [Website](http://www.GnuTheme.org/GnuTheme/)
- * [IRC](irc://irc.devnet.pw/#GnuTheme) irc.devnet.pw #GnuTheme
- * [IRC](irc://chat.freenode.net/#GnuTheme) chat.Freenode.net #GnuTheme
