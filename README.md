@@ -21,3 +21,4 @@ GnuTheme will default to installing in `$HOME/GnuTheme`, so make sure you plan a
     $ make install
 
 
+Join us irc.devnet.pw / #devnet for question
