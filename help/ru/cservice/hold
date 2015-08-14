@@ -8,4 +8,4 @@
 Синтаксис: HOLD <#канал> ON|OFF
 
 Примеры:
-    /msg &nick& HOLD #xtheme ON
+    /msg &nick& HOLD #gnutheme ON

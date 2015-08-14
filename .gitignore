@@ -20,8 +20,8 @@ core
 autom4te.cache
 config.log
 config.status
-dist/xtheme.conf.userserv-example
-dist/xtheme.conf.operserv-example
+dist/gnutheme.conf.userserv-example
+dist/gnutheme.conf.operserv-example
 include/hooktypes.h
 include/serno.h
 include/sysconf.h
@@ -46,7 +46,7 @@ scripts/*.tbz2
 scripts/*.tgz
 scripts/*.tar.bz2
 scripts/*.tar.gz
-src/services/xtheme-services
+src/services/gnutheme-services
 src/dbverify/dbverify
 src/ecdsadecode/ecdsadecode
 src/ecdsakeygen/ecdsakeygen

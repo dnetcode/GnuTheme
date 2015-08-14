@@ -9,4 +9,4 @@ provided by IRC bots.
 Syntax: REGISTER <#channel>
 
 Examples:
-    /msg &nick& REGISTER #Xtheme
+    /msg &nick& REGISTER #GnuTheme

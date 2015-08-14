@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015 Xtheme Development Group (Xtheme.org)
+ * Copyright (c) 2015 GnuTheme Development Group (GnuTheme.org)
  * Copyright (c) 2003-2004 E. Will et al.
  * Copyright (c) 2006-2010 Atheme Development Group
  * Rights to this code are documented in doc/LICENSE.

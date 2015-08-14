@@ -1,8 +1,8 @@
 /*
- * xtheme-services: A collection of minimalist IRC services
+ * gnutheme-services: A collection of minimalist IRC services
  * parse.c: Parsing of IRC messages.
  *
- * Copyright (c) 2014-2015 Xtheme Development Group (http://www.Xtheme.org)
+ * Copyright (c) 2014-2015 GnuTheme Development Group (http://www.GnuTheme.org)
  * Copyright (c) 2005-2007 Atheme Project (http://www.atheme.org)
  *
  * Permission to use, copy, modify, and/or distribute this software for any
@@ -30,7 +30,7 @@ DECLARE_MODULE_V1
 (
 	"transport/p10", true, _modinit, _moddeinit,
 	PACKAGE_VERSION,
-	"Xtheme Development Group <http://www.Xtheme.org>"
+	"GnuTheme Development Group <http://www.GnuTheme.org>"
 );
 
 /* parses a P10 IRC stream */

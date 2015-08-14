@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2003-2004 E. Will et al.
  * Copyright (c) 2005-2007 Atheme Development Group
- * Copyright (c) 2014-2015 Xtheme Development Group (http://www.Xtheme.org)
+ * Copyright (c) 2014-2015 GnuTheme Development Group (http://www.GnuTheme.org)
  * Rights to this code are documented in doc/LICENSE.
  *
  * This file contains protocol support for ircd-seven.
@@ -14,7 +14,7 @@
 #include "protocol/charybdis.h"
 #include "protocol/ircd-seven.h"
 
-DECLARE_MODULE_V1("protocol/ircd-seven", true, _modinit, NULL, PACKAGE_STRING, "Xtheme Development Group <http://www.Xtheme.org>");
+DECLARE_MODULE_V1("protocol/ircd-seven", true, _modinit, NULL, PACKAGE_STRING, "GnuTheme Development Group <http://www.GnuTheme.org>");
 
 /* *INDENT-OFF* */
 

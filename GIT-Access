@@ -1,6 +1,6 @@
-The Xtheme GIT repository can be checked out using the following command:
-	$ git clone git://github.com/XthemeOrg/Xtheme.git xtheme-devel
-	$ cd xtheme-devel
+The GnuTheme GIT repository can be checked out using the following command:
+	$ git clone git://github.com/GnuThemeOrg/GnuTheme.git gnutheme-devel
+	$ cd gnutheme-devel
 
 You should then run these commands to get the source for libmowgli-2 and
 the contrib modules. Even if you don't end up needing these, (you did not
@@ -10,6 +10,6 @@ be present.
 	$ git submodule init
 	$ git submodule update
 
-Xtheme's GIT repository depot can be browsed over the internet at 
+GnuTheme's GIT repository depot can be browsed over the internet at 
 the following address:
-	http://github.com/XthemeOrg/Xtheme/
+	http://github.com/GnuThemeOrg/GnuTheme/

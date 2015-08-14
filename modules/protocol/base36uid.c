@@ -1,8 +1,8 @@
 /*
- * xtheme-services: A collection of minimalist IRC services
+ * gnutheme-services: A collection of minimalist IRC services
  * base36uid.c: UID management.
  *
- * Copyright (c) 2014-2015 Xtheme Development Group (http://www.Xtheme.org)
+ * Copyright (c) 2014-2015 GnuTheme Development Group (http://www.GnuTheme.org)
  * Copyright (c) 2005-2007 Atheme Project (http://www.atheme.org)
  *
  * Permission to use, copy, modify, and/or distribute this software for any
@@ -24,7 +24,7 @@
 
 #include "atheme.h"
 
-DECLARE_MODULE_V1("protocol/base36uid", true, _modinit, NULL, PACKAGE_STRING, "Xtheme Development Group <http://www.Xtheme.org>");
+DECLARE_MODULE_V1("protocol/base36uid", true, _modinit, NULL, PACKAGE_STRING, "GnuTheme Development Group <http://www.GnuTheme.org>");
 
 static char new_uid[10]; /* allow for \0 */
 static unsigned int uindex = 0;

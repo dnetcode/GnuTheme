@@ -1,9 +1,9 @@
 /*
  * Copyright (c) 2005-2006 Atheme Development Group
- * Copyright (c) 2014-2015 Xtheme Development Group
+ * Copyright (c) 2014-2015 GnuTheme Development Group
  * Rights to this code are as documented in doc/LICENSE.
  *
- * Stuff for internal use in Xtheme.
+ * Stuff for internal use in GnuTheme.
  *
  */
 

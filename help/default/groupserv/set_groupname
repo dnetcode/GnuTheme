@@ -6,4 +6,4 @@ This is shown when a user requests info about the group.
 Syntax: SET <!OldGroupName> GROUPNAME <!NewGroupName>
 
 Example:
-    /msg &nick& SET !atheme GROUPNAME !Xtheme
+    /msg &nick& SET !atheme GROUPNAME !GnuTheme

@@ -11,5 +11,5 @@ Syntax: SET <#channel> PREFIX [prefix]
 Examples:
     /msg &nick& SET #freenode PREFIX
     /msg &nick& SET #freenode PREFIX '
-    /msg &nick& SET #Xtheme PREFIX %
-    /msg &nick& SET #Xtheme PREFIX default
+    /msg &nick& SET #GnuTheme PREFIX %
+    /msg &nick& SET #GnuTheme PREFIX default

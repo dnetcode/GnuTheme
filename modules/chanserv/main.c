@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014-2015 Xtheme Development Group (www.Xtheme.org)
+ * Copyright (c) 2014-2015 GnuTheme Development Group (www.GnuTheme.org)
  * Copyright (c) 2005 Atheme Development Group
  * Rights to this code are documented in doc/LICENSE.
  *
@@ -16,7 +16,7 @@ DECLARE_MODULE_V1
 (
 	"chanserv/main", true, _modinit, _moddeinit,
 	PACKAGE_STRING,
-	"Xtheme Development Group <http://www.Xtheme.org>"
+	"GnuTheme Development Group <http://www.GnuTheme.org>"
 );
 
 static void cs_join(hook_channel_joinpart_t *hdata);

@@ -6,4 +6,4 @@ sur le salon.
 Syntaxe : ACCESS <#salon> ADD <utilisateur> <role>
 
 Exemples :
-    /msg &nick& ACCESS #xtheme ADD stitch helpers
+    /msg &nick& ACCESS #gnutheme ADD stitch helpers

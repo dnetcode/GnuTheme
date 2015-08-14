@@ -1,5 +1,5 @@
 /*
- * xtheme-services: A collection of minimalist IRC services
+ * gnutheme-services: A collection of minimalist IRC services
  * sharedheap.c: Shared heaps (mowgli.heap bound to atheme.object)
  *
  * Copyright (c) 2011 William Pitcock <nenolod@dereferenced.org>

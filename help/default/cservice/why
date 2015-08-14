@@ -6,4 +6,4 @@ user matches.
 Syntax: WHY <#channel> [nickname]
 
 Examples:
-    /msg &nick& WHY #Xtheme Tiddles
+    /msg &nick& WHY #GnuTheme Tiddles

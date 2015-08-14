@@ -42,4 +42,4 @@ Flags:
     +banned - Enables automatic kickban.
 
 Examples:
-    /msg &nick& ROLE #xtheme ADD helpers topic autovoice
+    /msg &nick& ROLE #gnutheme ADD helpers topic autovoice

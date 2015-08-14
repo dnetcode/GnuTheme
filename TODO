@@ -1,6 +1,6 @@
 This TODO list was originally created by the Atheme Development Group.
-  It has been updated for Xtheme by the Xtheme Development Group.
-  (http://www.Xtheme.org/)
+  It has been updated for GnuTheme by the GnuTheme Development Group.
+  (http://www.GnuTheme.org/)
 
 ---
 
@@ -24,7 +24,7 @@ This TODO list was originally created by the Atheme Development Group.
 [x] IPv6 linking support
 
 frontend (www+xmlrpc)
-  [x] make it!  SOLUTION: SWI (http://www.Xtheme.org/SWI/)
+  [x] make it!  SOLUTION: SWI (http://www.GnuTheme.org/SWI/)
 
 ---
 

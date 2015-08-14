@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2005-2010 Atheme Development Group
- * Copyright (c) 2014-2015 Xtheme Development Group
+ * Copyright (c) 2014-2015 GnuTheme Development Group
  * Rights to this code are documented in doc/LICENSE.
  *
  * This file contains version information.
@@ -13,9 +13,9 @@ const char *revision = SERNO;
 
 const char *infotext[] =
 {
-  "Xtheme IRC Services --",
-  "Xtheme is a fork of Atheme",
-  "Copyright (c) 2014-2015 Xtheme Development Group (http://www.Xtheme.org)",
+  "GnuTheme IRC Services --",
+  "GnuTheme is a fork of Atheme",
+  "Copyright (c) 2014-2015 GnuTheme Development Group (http://www.GnuTheme.org)",
   "Portions copyright(c) 2005-2015 Atheme Development Group (http://www.atheme.org)",
   "Portions copyright (c) 2004 Shrike Developers (http://www.malkier.net)",
   "Portions copyright (c) 2015 Shalture (https://github.com/shalture/shalture)",
@@ -35,9 +35,9 @@ const char *infotext[] =
   "(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS",
   "SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",
   " ",
-  "Currently Xtheme's core group consists of the following developers,",
+  "Currently GnuTheme's core group consists of the following developers,",
   "in nick-alphabetical order:",
-  "  siniStar, Austin <siniStar@IRC4Fun.net>",
+  "  mayhem, Austin <mayhem@devnet.pw>",
   " ",
   "The following people have contributed blood, sweat and tears to",
   "previous Atheme releases:",
@@ -79,12 +79,12 @@ const char *infotext[] =
   "  sycobuny, Stephen Belcher <sycobuny@malkier.net>",
   " ",
   "Thanks also to the shalture folks for fixing the",
-  "ChanServ Last Modified by output, which Xtheme included.",
+  "ChanServ Last Modified by output, which GnuTheme included.",
   "Michael Harker <https://github.com/michaelharker>",
   "Janik Kleinhoff <https://github.com/ilbelkyr>",
   " ",
-  "For more information about Xtheme, the Xtheme Development",
-  "Group and more - see Xtheme.org",
-  "Visit our website at http://www.Xtheme.org/Xtheme/",
+  "For more information about GnuTheme, the GnuTheme Development",
+  "Group and more - see GnuTheme.org",
+  "Visit our website at http://www.GnuTheme.org/GnuTheme/",
   0,
 };

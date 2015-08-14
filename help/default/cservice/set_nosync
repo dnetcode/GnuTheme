@@ -7,4 +7,4 @@ is changed.
 Syntax: SET <#channel> NOSYNC ON|OFF
 
 Example:
-    /msg &nick& SET #xtheme NOSYNC ON
+    /msg &nick& SET #gnutheme NOSYNC ON

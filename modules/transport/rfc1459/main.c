@@ -1,8 +1,8 @@
 /*
- * xtheme-services: A collection of minimalist IRC services
+ * gnutheme-services: A collection of minimalist IRC services
  * main.c: RFC1459 transport core.
  *
- * Copyright (c) 2014-2015 Xtheme Development Group (http://www.Xtheme.org)
+ * Copyright (c) 2014-2015 GnuTheme Development Group (http://www.GnuTheme.org)
  * Copyright (c) 2010 Atheme Project (http://www.atheme.org)
  *
  * Permission to use, copy, modify, and/or distribute this software for any
@@ -30,7 +30,7 @@ DECLARE_MODULE_V1
 (
 	"transport/rfc1459", true, _modinit, _moddeinit,
 	PACKAGE_VERSION,
-	"Xtheme Development Group <http://www.Xtheme.org>"
+	"GnuTheme Development Group <http://www.GnuTheme.org>"
 );
 
 void _modinit(module_t *m)

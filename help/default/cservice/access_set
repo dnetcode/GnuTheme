@@ -6,4 +6,4 @@ channel role.
 Syntax: ACCESS <#channel> SET <user> <role>
 
 Examples:
-    /msg &nick& ACCESS #xtheme SET stitch lowlevel-staff
+    /msg &nick& ACCESS #gnutheme SET stitch lowlevel-staff

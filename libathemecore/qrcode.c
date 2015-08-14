@@ -1,5 +1,5 @@
 /*
- * xtheme-services: A collection of minimalist IRC services
+ * gnutheme-services: A collection of minimalist IRC services
  * qrcode.c: IRC encoding of QR codes
  *
  * Copyright (c) 2014 William Pitcock <nenolod@dereferenced.org>

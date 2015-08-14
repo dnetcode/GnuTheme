@@ -13,12 +13,12 @@
 #include "pmodule.h"
 #include "protocol/nefarious.h"
 
-DECLARE_MODULE_V1("protocol/nefarious", true, _modinit, NULL, PACKAGE_STRING, "Xtheme Development Group <http://www.Xtheme.org>");
+DECLARE_MODULE_V1("protocol/nefarious", true, _modinit, NULL, PACKAGE_STRING, "GnuTheme Development Group <http://www.GnuTheme.org>");
 
 /* *INDENT-OFF* */
 
 ircd_t Nefarious = {
-	.ircdname = "Nefarious IRCU 0.4.0 or later",
+	.ircdname = "Nef IRCU 2.0 or later",
 	.tldprefix = "$",
 	.uses_uid = true,
 	.uses_rcommand = false,
@@ -112,7 +112,7 @@ static void nefarious_join_sts(channel_t *c, user_t *u, bool isnew, char *modes)
 	else
 	{
 		sts("%s J %s %lu", u->uid, c->name, (unsigned long)c->ts);
-		sts("%s M %s +o %s", u->uid, c->name, u->uid);
+		sts("%s M %s +o %s", me.numeric, c->name, u->uid);
 	}
 }
 

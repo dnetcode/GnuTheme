@@ -1,11 +1,11 @@
 #!/bin/sh
 #
-# crontab script for xtheme
+# crontab script for gnutheme
 #
 
 # Change this to the directory where you installed it
-prefix=$HOME/xtheme/
-pidfile=var/xtheme.pid
+prefix=$HOME/gnutheme/
+pidfile=var/gnutheme.pid
 
 cd "$prefix" || {
 	echo "$0: couldn't cd to $prefix"
@@ -22,8 +22,8 @@ if [ -f "$pidfile" ] ; then
   rm -f "$pidfile"
 fi
 
-echo "$0: couldn't find xtheme running, restarting..."
+echo "$0: couldn't find gnutheme running, restarting..."
 
-./bin/xtheme-services
+./bin/gnutheme-services
 
 exit 0

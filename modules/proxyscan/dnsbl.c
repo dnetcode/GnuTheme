@@ -51,7 +51,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-/* To configure/use, add a block to the proxyscan{} section of your xtheme.conf
+/* To configure/use, add a block to the proxyscan{} section of your gnutheme.conf
  * like this:
  *
  * blacklists {

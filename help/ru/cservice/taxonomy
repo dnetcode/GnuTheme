@@ -4,4 +4,4 @@
 ассоциированных с каналом.
 
 Пример:
-    /msg &nick& TAXONOMY #xtheme
+    /msg &nick& TAXONOMY #gnutheme

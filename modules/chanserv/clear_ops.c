@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015 Xtheme Development Group (Xtheme.org)
+ * Copyright (c) 2015 GnuTheme Development Group (GnuTheme.org)
  * Rights to this code are as documented in doc/LICENSE.
  *
  * This file contains code for the ChanServ CLEAR OPS function.
@@ -12,7 +12,7 @@ DECLARE_MODULE_V1
 (
 	"chanserv/clear_ops", false, _modinit, _moddeinit,
 	PACKAGE_STRING,
-	"Xtheme Development Group <http://www.Xtheme.org>"
+	"GnuTheme Development Group <http://www.GnuTheme.org>"
 );
 
 static void cs_cmd_clear_ops(sourceinfo_t *si, int parc, char *parv[]);

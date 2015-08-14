@@ -10,4 +10,4 @@ d'un salon.
 Syntaxe : CLEAR <#salon> FLAGS
 
 Exemples :
-    /msg &nick& CLEAR #xtheme FLAGS
+    /msg &nick& CLEAR #gnutheme FLAGS

@@ -1,19 +1,19 @@
-## Xtheme
+## GnuTheme
 
-Xtheme is a set of services for IRC networks designed for large IRC networks with high
+GnuTheme is a set of services for IRC networks designed for large IRC networks with high
 scalability requirements.  It is relatively mature software, with some code and design
 derived from another package called Atheme and Shrike.
 
-Xtheme's behavior is tunable using modules and a highly detailed configuration file.
+GnuTheme's behavior is tunable using modules and a highly detailed configuration file.
 Almost all behavior can be changed at deployment time just by editing the configuration.
 
 If you are running this code from Git, you should read GIT-Access for instructions on
-how to fully check out the Xtheme tree, as it is spread across many repositories.
+how to fully check out the GnuTheme tree, as it is spread across many repositories.
 
 ## basic build instructions for the impatient
 
-Whatever you do, make sure you do *not* install Xtheme into the same location as the source.
-Xtheme will default to installing in `$HOME/Xtheme`, so make sure you plan accordingly for this.
+Whatever you do, make sure you do *not* install GnuTheme into the same location as the source.
+GnuTheme will default to installing in `$HOME/GnuTheme`, so make sure you plan accordingly for this.
 
     $ git submodule update --init
     $ ./configure
@@ -22,15 +22,15 @@ Xtheme will default to installing in `$HOME/Xtheme`, so make sure you plan accor
 
 If you're still lost, read [INSTALL](INSTALL) or [GIT-Access](GIT-Access) for hints. 
 
-## SWI (services web interface) Web Panel for Xtheme
+## SWI (services web interface) Web Panel for GnuTheme
 
 If you are interested in having a Services Web Interface (or Services Web Panel), SWI
-*IS* compatible with Xtheme and other Atheme forks, and is available at:
-http://www.Xtheme.org/SWI/ or http://github.com/XthemeOrg/SWI/
+*IS* compatible with GnuTheme and other Atheme forks, and is available at:
+http://www.GnuTheme.org/SWI/ or http://github.com/GnuThemeOrg/SWI/
 
 ## links / contact
 
- * [GitHub](http://www.github.com/XthemeOrg/Xtheme)
- * [Website](http://www.Xtheme.org/Xtheme/)
- * [IRC](irc://irc.IRC4Fun.net/#Xtheme) irc.IRC4Fun.net #Xtheme
- * [IRC](irc://chat.freenode.net/#Xtheme) chat.Freenode.net #Xtheme
+ * [GitHub](http://www.github.com/GnuThemeOrg/GnuTheme)
+ * [Website](http://www.GnuTheme.org/GnuTheme/)
+ * [IRC](irc://irc.devnet.pw/#GnuTheme) irc.devnet.pw #GnuTheme
+ * [IRC](irc://chat.freenode.net/#GnuTheme) chat.Freenode.net #GnuTheme

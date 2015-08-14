@@ -2,7 +2,7 @@
 
 use strict;
 
-open (DB, "< xtheme.db")
+open (DB, "< gnutheme.db")
    or die "Can not open database $!";
 
 my (%user, %memo, %memoignore, %channel, %metadata, %serviceignore, %kline);
@@ -15,7 +15,7 @@ sub db_load {
 
       # Database version
       my @item = split /\ /, $_, 2;
-      die "db_load(): database version is $item[1]; I only understand version 4 (Xtheme 0.2)"
+      die "db_load(): database version is $item[1]; I only understand version 4 (GnuTheme 0.2)"
          if ($item[0] eq "DBV" and $item[1] > 4);
 
       # Users

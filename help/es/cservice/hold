@@ -7,4 +7,4 @@ pueden expirar si se quedan sin fundadores y sucesores.
 Ayuda: HOLD <#canal> ON|OFF
 
 Ejemplos:
-    /msg &nick& HOLD #xtheme ON
+    /msg &nick& HOLD #gnutheme ON

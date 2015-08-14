@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014-2015 Xtheme Development Group (Xtheme.org)
+ * Copyright (c) 2014-2015 GnuTheme Development Group (GnuTheme.org)
  * Copyright (c) 2012 William Pitcock <nenolod@dereferenced.org>.
  *
  * Permission to use, copy, modify, and/or distribute this software for any
@@ -26,7 +26,7 @@ DECLARE_MODULE_V1
 (
 	"chanserv/moderate", false, _modinit, _moddeinit,
 	PACKAGE_STRING,
-	"Xtheme Development Group <http://www.Xtheme.org>"
+	"GnuTheme Development Group <http://www.GnuTheme.org>"
 );
 
 static void cs_cmd_activate(sourceinfo_t *si, int parc, char *parv[]);
@@ -299,7 +299,7 @@ static void cs_cmd_activate(sourceinfo_t *si, int parc, char *parv[])
 
 	csreq_destroy(cs);
 	/* Check if GUARD is enabled by default and if so, ChanServ should join even 
-	 * if the founder is no longer present or identified. --siniStar
+	 * if the founder is no longer present or identified. --mayhem
 	 */
 	if (mc->flags & MC_GUARD)
 		join(mc->name, chansvs.nick);

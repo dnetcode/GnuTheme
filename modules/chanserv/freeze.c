@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015 Xtheme Development Group (Xtheme.org)
+ * Copyright (c) 2015 GnuTheme Development Group (GnuTheme.org)
  * Rights to this code are as documented in doc/LICENSE.
  *
  * Similar to ChanServ CLOSE, but allows for channels to 
@@ -13,7 +13,7 @@ DECLARE_MODULE_V1
 (
 	"chanserv/freeze", false, _modinit, _moddeinit,
 	PACKAGE_STRING,
-	"Xtheme Development Group <http://www.Xtheme.org>"
+	"GnuTheme Development Group <http://www.GnuTheme.org>"
 );
 
 static void cs_cmd_freeze(sourceinfo_t *si, int parc, char *parv[]);

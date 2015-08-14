@@ -9,5 +9,5 @@
 Синтаксис: SET <#канал> PROPERTY <название> [значение]
 
 Примеры:
-    /msg &nick& SET #xtheme PROPERTY URL http://www.Xtheme.org/
+    /msg &nick& SET #gnutheme PROPERTY URL http://www.GnuTheme.org/
     /msg &nick& SET #meat PROPERTY URL

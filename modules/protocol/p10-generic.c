@@ -12,7 +12,7 @@
 #include "uplink.h"
 #include "pmodule.h"
 
-DECLARE_MODULE_V1("protocol/p10-generic", true, _modinit, NULL, PACKAGE_STRING, "Xtheme Development Group <http://www.Xtheme.org>");
+DECLARE_MODULE_V1("protocol/p10-generic", true, _modinit, NULL, PACKAGE_STRING, "GnuTheme Development Group <http://www.GnuTheme.org>");
 
 static void check_hidehost(user_t *u);
 
